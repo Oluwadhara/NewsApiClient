@@ -15,6 +15,7 @@ class InfoFragment : Fragment() {
     private lateinit var fragmentInfoBinding: FragmentInfoBinding
     private lateinit var viewModel: NewsViewModel
 
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
